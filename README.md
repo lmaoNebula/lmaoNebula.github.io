@@ -9,3 +9,4 @@ idk i was bored and i made this
 
 # Planned Updates
 ~~**Update 3:** Beauty Update (adding jekyll)~~ Removed because jekyll is used for themes and they are annoying as fk to set up <br>
+l;;lk;kl;
